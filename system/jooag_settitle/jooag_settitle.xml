@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" method="upgrade" group="system">
+	<name>PLG_JOOAG_SETTITLE</name>
+	<author>Ufuk Avcu</author>
+	<creationDate>10.06.2015</creationDate>
+	<copyright>Copyright (C) 2009 - 2015 Joomla Agency. All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>info@joomla-agentur.de</authorEmail>
+	<authorUrl>www.joomla-agentur.de</authorUrl>
+	<version>3.0.0</version>
+	<description></description>
+
+	<files>
+		<filename plugin="jooag_settitle">jooag_shariff.php</filename>
+	</files>
+</extension>
